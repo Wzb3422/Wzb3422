@@ -1,7 +1,5 @@
 ### Hi there 👋,
 
----
-
 I'm Wzb3422.
 
 + Undergraduate
