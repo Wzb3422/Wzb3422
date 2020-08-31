@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋,
+
+---
+
+I'm Wzb3422.
+
++ Undergraduate
++ Focusing on Frontend Dev.
++ Learning FB & Haskell
++ Coding Passionate.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wzb3422&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Wzb3422/Wzb3422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
