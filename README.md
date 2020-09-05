@@ -3,9 +3,9 @@
 I'm Wzb3422.
 
 + Undergraduate
-+ Focusing on Frontend Dev.
++ Focusing on Frontend Dev
 + Learning FP & Haskell
-+ Coding Passionate.
++ Coding Passionate
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wzb3422&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
