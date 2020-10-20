@@ -7,6 +7,8 @@ I'm Wzb3422.
 + ~Learning FP & Haskell~
 + Coding Passionate
 
+Looking for internship, see my resume [here](https://resume.zebwu.com).
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wzb3422&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
