@@ -5,9 +5,10 @@ I'm Wzb3422.
 + Undergraduate
 + Focusing on Frontend Dev
 + ~Learning FP & Haskell~
-+ Coding Passionate
 
 Looking for internship, see my resume [here](https://resume.zebwu.com).
+
+Feel free to contact me via wzb3422@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wzb3422&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
