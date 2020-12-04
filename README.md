@@ -10,8 +10,6 @@ Looking for internship, see my resume [here](https://resume.zebwu.com).
 
 Feel free to contact me via wzb3422@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wzb3422&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Wzb3422/Wzb3422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
