@@ -1,7 +1,12 @@
-Hi there 👋 I go by ZebWu. Typical usernames include wzb3422 or zebwu.
+Hi there 👋 I go by Zeb Wu. Typical usernames include wzb3422 / zebwu.
+
+Currently Front-end Developer @Bytedance
+
+Will be going to @Alibaba soon 🤔
 
 ![](https://komarev.com/ghpvc/?username=wzb3422&color=brightgreen)
 
++ 💼 Worked @Alibaba @Bytedance @Tencent @Repomono @ncuhome
 + 🔭 I'm an undergraduate, focus on frontend dev.
-+ 😄 Looking for internship now, see my resume [here](https://resume.zebwu.com).
++ 😄 See my resume [here](https://resume.zebwu.com) to know me more, English resume included.
 + 📫 Feel free to contact me via wzb3422@gmail.com
