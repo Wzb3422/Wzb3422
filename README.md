@@ -4,8 +4,6 @@ Currently Front-end Developer @Bytedance
 
 Will be going to @Alibaba soon 🤔
 
-![](https://komarev.com/ghpvc/?username=wzb3422&color=brightgreen)
-
 + 💼 Worked @Alibaba @Bytedance @Tencent @Repomono @ncuhome
 + 🔭 I'm an undergraduate, focus on frontend dev.
 + 😄 See my resume [here](https://resume.zebwu.com) to know me more, English resume included.
