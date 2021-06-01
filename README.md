@@ -1,4 +1,4 @@
-Hi there 👋 I go by Zeb Wu. Typical usernames include wzb3422 / zebwu.
+Hi there 👋 I go by Zeb Wu. Typical usernames include wzb3422 / zebwu / 纪伦.
 
 Currently Front-end Developer @Alibaba
 
