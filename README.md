@@ -5,7 +5,5 @@ Hi there 👋 I go by Zeb Wu. Typical usernames include wzb3422 / zebwu.
 
 I am a self-motivated fullstack developer(frontend focused), who has a proven track record in top global companies(Tiktok, WeChat, Alibaba). Equipped with in-depth knowledge of modern web technologies.
 
-Currently Front-end Developer [@WeChat](https://weixin.qq.com/).
-
 + 😄 Check out my portfolio https://zebwu.com for more information.
 + 📫 Feel free to reach me out via wzb3422@gmail.com
